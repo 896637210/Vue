@@ -3,7 +3,8 @@
 
 ###vue实例
 #### Object.freeze()，这会阻止修改现有的属性，也意味着响应系统无法再追踪变化。
-```var obj = {
+```
+var obj = {
   foo: 'bar'
 }
 
